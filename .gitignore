@@ -11,6 +11,9 @@ wp-content/upgrade/
 wp-content/mu-plugins/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
+wp-content/languages/
+wp-content/ewww/
+wp-content/backups-dup-lite
 
 /.htaccess
 /license.txt
